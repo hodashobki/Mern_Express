@@ -1,0 +1,10 @@
+Postman _ Pokemon:
+1-https://pokeapi.co/api/v2/ability/?limit=20
+______________
+2-https://pokeapi.co/api/v2/berry-flavor/1
+_______________________________
+3-https://pokeapi.co/api/v2/contest-type/3
+___________________________________
+4-https://pokeapi.co/api/v2/evolution-chain/7
+________________________________________
+5-https://pokeapi.co/api/v2/generation/5
